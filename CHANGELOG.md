@@ -1,3 +1,9 @@
+## [v0.5.3]
+
+FEATURES:
+
+- add command line parameter `cache.enable` and `cache.duration` for metrics caching.
+
 ## [v0.5.2]
 
 FEATURES:
